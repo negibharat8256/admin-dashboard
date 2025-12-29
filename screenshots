@@ -1,1 +1,15 @@
-hi
+
+Add:
+- `login.png`
+- `dashboard.png`
+- `users.png`
+- `settings.png`
+
+Then replace the screenshots section with:
+
+```md
+## 📸 Screenshots
+![Login](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
+![Users](screenshots/users.png)
+![Settings](screenshots/settings.png)
