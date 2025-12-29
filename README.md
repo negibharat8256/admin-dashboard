@@ -23,6 +23,22 @@ A responsive admin dashboard built using React to simulate an internal enterpris
 
 ---
 
+## 📸 Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Users
+![Users](screenshots/users.png)
+
+### Settings
+![Settings](screenshots/settings.png)
+
+---
+
 ## 🧠 Notes
 This project is frontend-focused and simulates real-world admin tools commonly used in enterprise applications.  
 Authentication and data are mocked for demonstration purposes.
