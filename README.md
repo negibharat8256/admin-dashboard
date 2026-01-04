@@ -2,6 +2,8 @@
 
 A responsive admin dashboard built using React to simulate an internal enterprise admin panel.
 
+🔗 **Live Demo:** https://admin-dashboard-five-brown-22.vercel.app/login
+
 ---
 
 ## 🚀 Features
